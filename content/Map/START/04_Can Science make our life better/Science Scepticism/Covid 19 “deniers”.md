@@ -1,0 +1,3 @@
+  
+
+> Der Bewegung der Leugner geht es […]um die Verhinderung einer progressiven Politik, im Fall von Corona nicht anders, als im Klimabereich. Aus Angst davor, dass weitreichender Expertenkonsens die Politik zu Regulierungen und Restriktionen veranlasst, die einem nicht passen, fahndet man nach Uneindeutigkeiten, Unvollkommenheiten und Wiedersprüchen im Expertenwissen und wertet das als Systemversagen. ([Bogner, 2021](https://lean-sphynx-49b.notion.site/Bogner-2021-33dcb119f4e44d6fa16254a29738978c?pvs=21)

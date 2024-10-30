@@ -1,0 +1,66 @@
+**Node**
+
+**Area (colour)**
+
+[🗯️**Discourses](https://lean-sphynx-49b.notion.site/Discourses-ab06ed1436054e5b9bf0c0af92149114?pvs=21)
+
+**Tags**
+
+[🏷️Academia](https://lean-sphynx-49b.notion.site/Academia-11bd23c278674ec6843b89f1af801c4d?pvs=21) [🏷️Academic Workforce](https://lean-sphynx-49b.notion.site/Academic-Workforce-14c2434af32e41c190a68c92b02ddf42?pvs=21) [🏷️Culture Wars](https://lean-sphynx-49b.notion.site/Culture-Wars-1bf517d6bcea44c8ae70185aa3cf4425?pvs=21) [🏷️Political Correctness](https://lean-sphynx-49b.notion.site/Political-Correctness-9fe48f68a2f04747bb91821f56b246db?pvs=21) [🏷️Intersectionality](https://lean-sphynx-49b.notion.site/Intersectionality-741e1744f5c5495181f7dd28994011f9?pvs=21) [🏷️Goldwater Institute](https://lean-sphynx-49b.notion.site/Goldwater-Institute-94095b659a954fea9f31450681c05413?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [❓Kind](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21)
+
+**Links**
+
+[[Higher Education Admin vs. Research]] [[Cancel Culture and Wokeness in Science (?)]]
+
+**Literature**
+
+[Wang et al., 2023](https://lean-sphynx-49b.notion.site/Wang-et-al-2023-fdc31043c8c8489ebcab9797ae5e9353?pvs=21) [Davis et al., 2023](https://lean-sphynx-49b.notion.site/Davis-et-al-2023-9bbf7b2abd914cf79e1fdef8dae2be47?pvs=21) [Esparza et al., 2022](https://lean-sphynx-49b.notion.site/Esparza-et-al-2022-3a9512efd34b426ab5f64b0695e9f89a?pvs=21) [Devine & Ash, 2022](https://lean-sphynx-49b.notion.site/Devine-Ash-2022-cfcecc38c96c44ea934586ba75858a6e?pvs=21) [Dobbin & Kalev, 2018](https://lean-sphynx-49b.notion.site/Dobbin-Kalev-2018-bb99bfc3505145f29796064782d562e6?pvs=21) [Woods, 2024](https://lean-sphynx-49b.notion.site/Woods-2024-38b96287a1cd4079acc415fc6bc68f05?pvs=21) [Saul, 2024](https://lean-sphynx-49b.notion.site/Saul-2024-17331a603cc64b659d2f8689cd0e4df2?pvs=21) [Poser, 2024](https://lean-sphynx-49b.notion.site/Poser-2024-2826cdc5bfc24015b1f81f8598680d6c?pvs=21) [Gretzinger & Hicks, 2024](https://lean-sphynx-49b.notion.site/Gretzinger-Hicks-2024-a0f2623fd8574a609809a03f7253ad2c?pvs=21) [Minella, 2024](https://lean-sphynx-49b.notion.site/Minella-2024-1cf0a4aa47744a3e9e28ad82d537ebc9?pvs=21) [Newburry et al., 2022](https://lean-sphynx-49b.notion.site/Newburry-et-al-2022-8fef95384a4f473f8af78d35b988786c?pvs=21) [Kuhar & Paternotte, 2018](https://lean-sphynx-49b.notion.site/Kuhar-Paternotte-2018-8228afcd43d746cfad8055652fdb147a?pvs=21) [Wenzel, 2024](https://lean-sphynx-49b.notion.site/Wenzel-2024-f62a525fae344d7aa44fd4fbf239aec9?pvs=21) [Henninger et al., 2021](https://lean-sphynx-49b.notion.site/Henninger-et-al-2021-ea30d1961fd347a484ac59da1ad6d478?pvs=21) [Freeman, 2024](https://lean-sphynx-49b.notion.site/Freeman-2024-61eb44dd3a2c49cc849247173474a901?pvs=21)
+
+**Abstract/Summary**
+
+> [!important]  
+> Definition of DEI by Cambridge Dictionary:The idea that all people should have equal rights and treatment and be welcomed and included, so that they do not experience any disadvantage because of belonging to a particular group, and that each person should be given the same opportunities as others according to their needs  
+
+Making access to education as equitable and fair as possible, is an ongoing struggle which has been summed up with the term DEI (Diversity, Equity and Inclusion). Even though DEI is mainly discussed and researched in context of the private sector ([Wang et al., 2023](https://lean-sphynx-49b.notion.site/Wang-et-al-2023-fdc31043c8c8489ebcab9797ae5e9353?pvs=21)), for instance on the effectiveness of DEI training ([Dobbin & Kalev, 2018](https://lean-sphynx-49b.notion.site/Dobbin-Kalev-2018-bb99bfc3505145f29796064782d562e6?pvs=21). [Devine & Ash, 2022](https://lean-sphynx-49b.notion.site/Devine-Ash-2022-cfcecc38c96c44ea934586ba75858a6e?pvs=21)), DEI efforts have concurrently been in the focus of higher education institutions. They are widely recognized and implemented, in organizations and Institutions, mainly in the global north ([Newburry et al., 2022](https://lean-sphynx-49b.notion.site/Newburry-et-al-2022-8fef95384a4f473f8af78d35b988786c?pvs=21) ), both to varying degrees and according to varying guidelines (see Case studies in this node). While in the United States, there is more emphasis on DEI measures especially concerning racial issues, especially after the Black Lives Matter protests in 2020, in Europe, DEI has historically been more focused on gender, LGBQTAI+ disability, rather than on race ([Woods, 2024](https://lean-sphynx-49b.notion.site/Woods-2024-38b96287a1cd4079acc415fc6bc68f05?pvs=21) ). Overall, there seems to be less scholarly research, monitoring and overall organized efforts surrounding DEI in the European context. Due to the heterodox nature of the understanding and execution of DEI, comparisons are difficult to make because every organization works within their own complex ecosystem and is tied to different regional contexts: “Every institution […] has a unique version of Diversity” ([Woods, 2024](https://lean-sphynx-49b.notion.site/Woods-2024-38b96287a1cd4079acc415fc6bc68f05?pvs=21) ). In the context of higher education, every major University has a DEI office and reports about DEI developments are issued regularly (for instance the [University of Vienna](https://personalwesen.univie.ac.at/en/culture-equality/overview/)). “While no two campus diversity programs are exactly alike, they often preside over a variety of functions, including operating student cultural centers, ensuring regulatory compliance and hosting racial bias workshops for students and faculty members” ([Saul, 2024](https://lean-sphynx-49b.notion.site/Saul-2024-17331a603cc64b659d2f8689cd0e4df2?pvs=21)).
+
+Although DEI has been broadly recognized and invested in by many official and private bodies, emphasizing the economic and societal benefits of diversity in the respective institutions, DEI measures have been under increasing criticism. Especially in conservative parts of the USA, there is a strong - also legislative - backlash against measures that could broadly be defined as advancing DEI: “state legislatures have pushed through harsh [antiprotest measures](https://www.nytimes.com/2021/04/21/us/politics/republican-anti-protest-laws.html) and against diversity, equity and inclusion programs are underway. Last June, the [Supreme Court struck down affirmative action](https://www.nytimes.com/live/2023/06/29/us/affirmative-action-supreme-court) in college admissions.” ([Poser, 2024](https://lean-sphynx-49b.notion.site/Poser-2024-2826cdc5bfc24015b1f81f8598680d6c?pvs=21)). Examples for the mounting legal pressure against aspects of DEI are bans of DEI offices and training, public funding of gender- and grievance studies, diversity statements in the hiring process and many more (an ongoing monitoring is provided by ([Gretzinger & Hicks, 2024](https://lean-sphynx-49b.notion.site/Gretzinger-Hicks-2024-a0f2623fd8574a609809a03f7253ad2c?pvs=21)). Even though some of the legislation has been revoked in court, the most prominent one being Florida’s “[Stop WOKE act](https://flsenate.gov/Session/Bill/2022/148/BillText/Filed/HTML)”, Universities are already preemptively changing their organizational structures, for instance re-naming their DEI offices to prevent them from closing ([Saul, 2024](https://lean-sphynx-49b.notion.site/Saul-2024-17331a603cc64b659d2f8689cd0e4df2?pvs=21)). Interestingly, these bans are framed as being a stepping stone towards more equal opportunities, not less: “Across the country, Americans are notching victories for equal opportunity, freedom of thought, and academic rigor by dismantling DEI programs at public universities. The bodies that oversee public universities—state legislatures and university boards—are waking up to the nefarious effects of wasteful and discriminatory DEI programs” writes [Minella, 2024](https://lean-sphynx-49b.notion.site/Minella-2024-1cf0a4aa47744a3e9e28ad82d537ebc9?pvs=21) of the Goldwater Institute.
+
+Not just in the US, also in Europe, DEI measures are facing criticism. Here, mostly gender mainstreaming measures like women’s quota and measures against LGBTQAI+ discrimination, but also Gender Studies as an academic discipline are increasingly under attack ([Kuhar & Paternotte, 2018](https://lean-sphynx-49b.notion.site/Kuhar-Paternotte-2018-8228afcd43d746cfad8055652fdb147a?pvs=21)). There is, for instance, an ongoing and heated debate about the use of Gender Inclusive language in German-speaking countries. Using the male, as well as the female form and some signage in between which stands for people outside of traditional Gender roles (like Student*innen or Student:innen) on the one hand makes the German Language more inclusive and raises awareness against stereotypes, on the other hand it makes reading texts more complicated. In light of this, some german-speaking provinces in Germany and Austria, like Saxony, Bavaria and Lower Austria have banned gender-inclusive language in official communication. Not included in this ban however, are works of research, hence, Universities and Journals can still use the so-called “Gendersternchen” ([Wenzel, 2024](https://lean-sphynx-49b.notion.site/Wenzel-2024-f62a525fae344d7aa44fd4fbf239aec9?pvs=21)). Apart from this ban, DEI measures, also in the higher education context, are not (yet) facing the same legislative backlash in Europe as in the US. However, along with the rise of populist movements all over Europe, also the anti-DEI movement is growing, increasingly interconnected and organized ([Henninger et al., 2021](https://lean-sphynx-49b.notion.site/Henninger-et-al-2021-ea30d1961fd347a484ac59da1ad6d478?pvs=21)).
+
+  
+
+### Some Voices from both sides concerning DEI
+
+  
+
+[Tweet Bill Ackman (billionaire Hedgefund Manager and Harvard alumnus) on DEI → Part of a longer open letter to Harvard University in reaction to the Gaza-Protests](https://x.com/BillAckman/status/1742441534627184760) and the dismissal of Harvard President (see mini-case study)
+
+> The country has seen burgeoning resentment and anger grow materially over the last few years, and the DEI movement is an important contributor to our growing divisiveness. Resentment is one of the most important drivers of racism. And it is the lack of equity, i.e, fairness, in how DEI operates, that contributes to this resentment.
+
+  
+
+From an article about the Gaza Protests at Harvard University [Freeman, 2024](https://lean-sphynx-49b.notion.site/Freeman-2024-61eb44dd3a2c49cc849247173474a901?pvs=21)
+
+> DEI — diversity, equity (equality) and inclusion — is a policy that aims to acknowledge a history of oppression and achieve fairness through proportional representation. So the number of black people in a company, for example, should reflect their percentage of the population. It argues that all groups are either oppressors or oppressed and that social class is irrelevant. A criticism of DEI is that it tacitly endorses antisemitism — as Jews can be classed as white and therefore among the oppressors. The Jewish students I spoke to said they reached out to the university’s DEI department, founded after the death of George Floyd in 2020, after they experienced antisemitism on campus, but received no help or even a response. (The DEI department declined to comment.)
+
+  
+
+From: [https://abcnews.go.com/US/map-impact-anti-dei-legislation/story?id=108795967](https://abcnews.go.com/US/map-impact-anti-dei-legislation/story?id=108795967))
+
+> "My administration has and will continue to value Alabama's rich diversity. However, I refuse to allow a few bad actors on college campuses – or wherever else for that matter – to go under the acronym of DEI, using taxpayer funds, to push their liberal political movement counter to what the majority of Alabamians believe," said Alabama Gov. Kay Ivey when signing an anti-DEI bill in March.
+
+  
+
+> "This is all about silencing students," United Faculty of Florida union's president Andrew Gothard said in an interview with local news outlet WLRN. "It's about silencing faculty. It's about withholding funding from individuals who have beliefs, speak ideas, or take actions that would disagree with the politics of elected leaders."
+
+  
+
+From the blog by [Woods, 2024](https://lean-sphynx-49b.notion.site/Woods-2024-38b96287a1cd4079acc415fc6bc68f05?pvs=21) on DEI measured in European Univeristies
+
+> In some cases, inclusion means women’s representation while for others, it is allowing refugees to join their student population. In the general sense of the word diversity, European universities are already there. Diversity beyond meaning variety and in the sense of providing services to underrepresented groups is slowly becoming a part of higher education in Europe. Equity and inclusion in various ways are also becoming part of the transforming European university.
+
+  
+
+[[Affirmative Action]]
+
+[[The “leaky pipeline”]]

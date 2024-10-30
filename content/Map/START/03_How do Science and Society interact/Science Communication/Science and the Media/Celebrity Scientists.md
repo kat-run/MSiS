@@ -1,0 +1,53 @@
+**Node**
+
+**Area (colour)**
+
+[🗯️**Discourses](https://lean-sphynx-49b.notion.site/Discourses-ab06ed1436054e5b9bf0c0af92149114?pvs=21)
+
+**Tags**
+
+[🏷️Science Communication](https://lean-sphynx-49b.notion.site/Science-Communication-08922d606e5e47f293f5c56d536a9836?pvs=21) [🏷️Pop Culture](https://lean-sphynx-49b.notion.site/Pop-Culture-f74a9a1b778a41518fe31d4223e2cbb3?pvs=21) [🏷️Covid19](https://lean-sphynx-49b.notion.site/Covid19-2177f1f3792c4569a492e3a43b903d39?pvs=21)
+
+**Links**
+
+  
+
+**Literature**
+
+[Fahy & Lewenstein, 2021](https://lean-sphynx-49b.notion.site/Fahy-Lewenstein-2021-20196ff6150d4850b8f4fc5b0bf91791?pvs=21) [Davies & Horst, 2016](https://lean-sphynx-49b.notion.site/Davies-Horst-2016-d7ce925c7b334648a32b78f31367dcaa?pvs=21) [Krauss, 2015](https://lean-sphynx-49b.notion.site/Krauss-2015-5501e53412a740f9b2e8fde0af240749?pvs=21) [Rödder, 2012](https://lean-sphynx-49b.notion.site/R-dder-2012-40dd40218cce4f4c8ec5ef4a7cad165a?pvs=21)
+
+**Abstract/Summary**
+
+Chapter from [Davies & Horst, 2016](https://lean-sphynx-49b.notion.site/Davies-Horst-2016-d7ce925c7b334648a32b78f31367dcaa?pvs=21), p. 66fff
+
+### Celebrity scientists
+
+The most visible of these symbolic figures who serve as a focal point for internal and external sense-making about science are celebrity scientists such as Susan Greenfield, Steven Pinker or Oliver Sacks. Such celebrity is not a new phenomenon. In the nineteenth century, Darwin was the high-profile figurehead for evolutionary theory, reviled and celebrated in equal measure. Rae Goodell wrote about a set of twentieth-century ‘visible scientists’, including Carl Sagan, Margaret Mead and Linus Pauling, whose careers were ‘discussed, idolized, cursed, applauded, and ridiculed’ [30]. Goodell, writing in the 1970s, suggested that such visible scientists remained unusual even in an age when the mass media was becoming increasingly important. They faced special challenges, including being seen ‘almost as a pollution in the scientific community’ [31], and posed challenges for public communication of science. Goodell was concerned about the undue degree of influence a charismatic celebrity scientist could have on political and public debate, even in areas outside of their expertise. But they also represented a different way of doing science, one that was conducted in public as much as in the laboratory, and which showed the human and often quirky side of scientific research. More recently, Declan Fahy has argued that what has been called the ‘Sagan Effect’—the career-damaging idea that popular attention is inversely proportional to scientific credibility—no longer holds true. Fahy shows that many celebrity scientists today maintain well-regarded research careers alongside their public communication activities; beyond this, though, popularisers are no longer seen as ‘second-class scientists’ [32]. Scientists who communicate are valued in a way that was not necessarily the case when Goodell was writing. Often, they are able to make public communication part of their scientific brand and thereby their living. Fahy writes that celebrity occurs at the intersection of three processes: the merging of an individual’s public and private lives; their status as a ‘cultural commodity’ or brand; and their embodiment, in public consciousness, of certain ideologies or concepts [33]. Celebrity scientists are one part of a wider culture of ‘celebrification’: as with other celebrities, like sports or film stars, they have power ‘because they vividly represent ideas, issues, and ideologies, allowing people to visualize and make sense of abstract concepts ... [they] personify and act as figureheads for social movements’ [34]. In other words, celebrity scientists are not only charismatic personalities or quirky individualists. They represent wider social and cultural concerns—Fahy notes Richards Dawkins’ personification of the relation between atheism and society, for instance, or the USA’s vexed relationship with black intellectualism for Neil deGrasse Tyson—and they are relevant, and thereby celebrated, because of these connections. True celebrities, Fahy explains, must ‘intersect with history’, such that their ‘stardom coincides with the Zeitgeist, the spirit of the age’ [35]. In this way, scientific celebrities can cross over between public and scientific domains, becoming a focal point for internal as well as external sense-making about science. The biotechnology entrepreneur Craig Venter, for instance, has become an important symbol of a particular way of doing science, one that is highly entrepreneurial and oriented towards commercial development. In a different corner of the scientific universe, images of Albert Einstein with his wild hair and eccentric style have come to symbolize excellence in science and a focus on basic research. Einstein represents genius and quirky humanity in one package. The form of science he symbolises should—the sense is—be left alone to make tremendous new knowledge without any tawdry consideration of applications or economics, because important applications will nonetheless result. Similarly, Fahy argues that Stephen Hawking symbolizes science as a purely cognitive and disembodied effort.36 Scientific celebrities thus become symbols of science, standing for different imaginations of what science is and should be. The symbolic power of these celebrities implies that they are an important way for the media, publics and scientists themselves to make sense of science. There is, however, still ambivalence around being a visible scientist. The Sagan Effect continues to be referred to within scientific cultures, and scientists may voice concerns about taking on a role as a visible scientist [37]. Simone Rödder suggests that this should be understood as structural ambivalence within the scientific system, deriving from differing expectations connected to the various roles that scientists take on [38]. She argues that we should understand this ambivalence ‘in the light of the scientific community’s attempt to safeguard the integration of a scientific discipline, i.e., the allocation of rewards according to scientific criteria’ [39]. For her, the crucial question to ask is under ‘what conditions does a scientist become visible although public communication induces ambivalence?’ [40]. Her conclusion is that while scientists might take on the role of representing science to the outside world, they usually have to do so under three conditions in order not to lose their scientific credibility. They have to appear in public based on a background of sound scientific work; their appearance should be with reference to their institutional or organizational role (speaking on behalf of something other than themselves); and they should not be seen to proactively seek the limelight. Scientific credibility is therefore crucial for internal sense-making about science. Scientists often have a very strong sense of the autocommunication dimensions of their public visibility as a symbolic figure. Visible scientists run a risk of being seen as less scientifically excellent, and they have to take care to protect themselves from this risk, for instance by meeting the three conditions that Rödder describes. But such auto-communication dimensions of public communication are not just concerned with representations of scientific excellence and ensuring that one’s public profile highlights scientific rigor over celebrity. Particular individuals may also come to embody certain visions or ambitions within universities, departments, and research groups. For instance, Caragh Brosnan and Mike Michael studied how a particular interdisciplinary neuroscience research group understood itself [41] They found that the group leader played a key role in how the group functioned: unlike the rest of the group, his background was interdisciplinary, and he had expertise in both clinical and basic neuroscience. He therefore played an important role in embodying the promise of one day translating basic research into clinically effective interventions, as well as representing in his person the practice of interdisciplinary research. He symbolized, for the rest of the group, the practices they were engaged in, which could sometimes be experienced as incoherent or dispersed. Similarly, Ulrike Felt and Max Fochler argue that science communication images directed at the wider public are absorbed by researchers and affect their expectations and experiences of doing science. The stories told in science communication, Felt and Fochler write, ‘are always successful ones’. The emphasis on inspiring narratives about researchers who are finding satisfaction and excitement in science can mean that ‘comparing one’s own track record with these accounts becomes a more and more frightening exercise for researchers moving into the post-doc phase’ [42] Here, again, public communication feeds back into the identity work of those within the communicating organization or institution. The public voices of visible scientists are used both positively and negatively for making sense of science by their students, colleagues, and others.
+
+  
+
+30. Goodell R (1977) Th e visible scientist . Boston: Little Brown.
+
+31. Ibid.
+
+32. p. 203, ibid.
+
+33. Fahy D (2015) Th e New Celebrity Scientists: Out of the Lab and into the Limelight . Rowman & Littlefield.
+
+34. pp. 6–7, ibid.
+
+35. p. 206, ibid.
+
+36. Ibid.
+
+37. A 2006 Royal Society report found that a substantial number of scientists think that colleagues who engage in public communication do so because they are not excellent scientists. Royal Society (2006) Survey of Factors Affecting Science Communication: Conclusions, Recommendations and Actions. London: Royal Society.
+
+38. Rödder S (2012) The ambivalence of visible scientists. In: Rödder S, Franzen M, and Weingart P (eds), Th e Sciences’ Media Connection—Public Communication and Its Repercussions, Sociology of the Sciences Yearbook, Springer, pp. 155–177.
+
+39. p. 165, ibid.
+
+40. p. 168, ibid.
+
+41. Brosnan C and Michael M (2014) Enacting the ‘neuro’ in practice: Translational research, adhesion and the promise of porosity. Social Studies of Science, 44(5): 680–700.
+
+42. p. 150, Felt U and Fochler M (2012) Re-ordering epistemic living spaces: On the tacit governance effects of the public communication of science. In: Rödder S, Franzen M, and Weingart P (eds), Th e Sciences’ Media Connection—Public Communication and Its Repercussions, Sociology of the Sciences Yearbook, Springer Netherlands, pp. 133–154.
