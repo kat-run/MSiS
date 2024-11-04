@@ -1,7 +1,7 @@
 ---
 title: Mapping Science in Society
 ---
-Welcome to the online-application of the project " Mapping Science in Society"!
+6Welcome to the online-application of the project " Mapping Science in Society"!
 
 Here are some basic instructions:
 - You can dive right into the content by clicking on "Map" on the left hand side. By clicking into a node, you should see the node and their immediate connections appear in the window on the right. If you click on the network-icon on the right, you can see a graph of the whole map. 
