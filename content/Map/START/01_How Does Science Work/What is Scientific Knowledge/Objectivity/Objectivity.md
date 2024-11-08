@@ -14,7 +14,7 @@
 
 **Literature**
 
-[Daston, 1992](https://lean-sphynx-49b.notion.site/Daston-1992-d933f6bd5f0540d096e8df9eaf9c528f?pvs=21) [Daston, 2007](https://lean-sphynx-49b.notion.site/Daston-2007-508f9d19397e4bb795a7281d283f2e5c?pvs=21)
+[Daston, 1992](https://lean-sphynx-49b.notion.site/Daston-1992-d933f6bd5f0540d096e8df9eaf9c528f?pvs=21) [Daston, 2007](https://lean-sphynx-49b.notion.site/Daston-2007-508f9d19397e4bb795a7281d283f2e5c?pvs=21)[Longino, 1995](https://lean-sphynx-49b.notion.site/Longino-1995-136872101866810b9989fc1f41a2e00c?pvs=74)
 
 **Abstract/Summary**
 
