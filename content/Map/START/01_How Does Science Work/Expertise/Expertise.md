@@ -27,13 +27,12 @@ In the early 80, up until now, the social studies of science have questioned thi
 I have argued that, expertise not only has an important role in our modern society, the concept also has many facets. In the sub-nodes, i try to depict this diversity.
 
   
+[[The third wave of Science Studies]]
 
 [[Impure Science- AIDS, Activism, and the Politics of Knowledge]]
 
 [[Expertise post-Covid]]
 
 [[Scientific Expertise in policy making]]
-
-[[The third wave of Science Studies]]
 
 [[“Lay-Experts” - Sheep Farmers and the public uptake of science]]

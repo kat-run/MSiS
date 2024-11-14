@@ -10,7 +10,7 @@
 
 **Links**
 
-[[What is Scientific Knowledge]] [❓Kind](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [🌌Cosmos: Progress](https://lean-sphynx-49b.notion.site/Cosmos-Progress-9b264eb6e46c4d039df020e1d9342b9c?pvs=21)
+[[What is Scientific Knowledge]] [❓Agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [🌌Cosmos: Progress](https://lean-sphynx-49b.notion.site/Cosmos-Progress-9b264eb6e46c4d039df020e1d9342b9c?pvs=21)
 
 **Literature**
 
