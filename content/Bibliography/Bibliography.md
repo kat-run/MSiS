@@ -32,6 +32,8 @@ Azzouni, S. (2015). The Popular Science Book: A New Genre between Literature and
 
 Azzouni, S. (2017). Populäres Wissen und Medien. In M. Sommer, S. Müller-Wille, & C. Reinhardt (Eds.), _Handbuch Wissenschaftsgeschichte_ (pp. 333–341). J.B. Metzler. [https://doi.org/10.1007/978-3-476-05347-3_31](https://doi.org/10.1007/978-3-476-05347-3_31)
 
+Badash, L. (2000). Science and McCarthyism. _Minerva_, _38_, 53–08.
+
 Baker, M. (2016a). 1,500 scientists lift the lid on reproducibility. _Nature_, _533_(7604), 452–454. [https://doi.org/10.1038/533452a](https://doi.org/10.1038/533452a)
 
 Baker, M. (2016b). Stat-checking software stirs up psychology. _Nature_, _540_(7631), 151–152. [https://doi.org/10.1038/540151a](https://doi.org/10.1038/540151a)
@@ -90,6 +92,8 @@ Bonaccorsi, & Biancardi. (2021). _Internationalisation of Academic Staff in Euro
 
 Bongaerts, J. C. (2022). The Humboldtian Model of Higher Education and its Significance for the European University on Responsible Consumption and Production. _BHM Berg- Und Hüttenmännische Monatshefte_, _167_(10), 500–507. [https://doi.org/10.1007/s00501-022-01280-w](https://doi.org/10.1007/s00501-022-01280-w)
 
+Bouterse, J., & Karstens, B. (2015). A Diversity of Divisions: Tracing the History of the Demarcation between the Sciences and the Humanities. _Isis_, _106_(2), 341–352. [https://doi.org/10.1086/681995](https://doi.org/10.1086/681995)
+
 Bowker, G. C., & Star, S. L. (2000). _Sorting things out—Classification and its consequences_ (1. paperback ed.). MIT Press.
 
 Brandt, P., Ernst, A., Gralla, F., Luederitz, C., Lang, D. J., Newig, J., Reinert, F., Abson, D. J., & von Wehrden, H. (2013). A review of transdisciplinary research in sustainability science. _Ecological Economics_, _92_, 1–15. [https://doi.org/10.1016/j.ecolecon.2013.04.008](https://doi.org/10.1016/j.ecolecon.2013.04.008)
@@ -97,6 +101,8 @@ Brandt, P., Ernst, A., Gralla, F., Luederitz, C., Lang, D. J., Newig, J., Reiner
 Braun, D. (1998). The role of funding agencies in the cognitive development of science. _Research Policy_, _27_(8), 807–821. [https://doi.org/10.1016/S0048-7333(98)00092-4](https://doi.org/10.1016/S0048-7333(98)00092-4)
 
 Broderick, T. (2023). Evidence Undermines “Rapid Onset Gender Dysphoria” Claims. _Scientific American_. [https://www.scientificamerican.com/article/evidence-undermines-rapid-onset-gender-dysphoria-claims/](https://www.scientificamerican.com/article/evidence-undermines-rapid-onset-gender-dysphoria-claims/)
+
+Brown, M. J. (2020). _Science and Moral Imagination: A New Ideal for Values in Science_. University of Pittsburgh Press.
 
 Bu, Y., Huang, Y., & Lu, W. (2020). Loops in publication citation networks. _Journal of Information Science_, _46_(6), 837–848. [https://doi.org/10.1177/0165551519871826](https://doi.org/10.1177/0165551519871826)
 
@@ -122,11 +128,15 @@ Callon, M., Lascoumes, P., & Barthe, Y. (2009). _Acting in an Uncertain World. A
 
 Callon, M., & Rabeharisoa, V. (2003). Research “in the wild” and the shaping of new social identities. _Technology in Society_, _25_(2), 193–204. [https://doi.org/10.1016/S0160-791X(03)00021-6](https://doi.org/10.1016/S0160-791X(03)00021-6)
 
+Cammaerts, B. (2022). The abnormalisation of social justice: The ‘anti-woke culture war’ discourse in the UK. _Discourse & Society_, _33_(6), 730–743. [https://doi.org/10.1177/09579265221095407](https://doi.org/10.1177/09579265221095407)
+
 CAO, L., & ZHANG, Z. (2022, May 20). _Developing Science and Technology Policies for High Risk-High Reward Research_. [https://bulletinofcas.researchcommons.org/journal/vol37/iss5/11](https://bulletinofcas.researchcommons.org/journal/vol37/iss5/11)
 
 Cash, D., Clark, W. C., Alcock, F., Dickson, N. M., Eckley, N., & Jäger, J. (2002). _Salience, Credibility, Legitimacy and Boundaries: Linking Research, Assessment and Decision Making_ (SSRN Scholarly Paper 372280). [https://doi.org/10.2139/ssrn.372280](https://doi.org/10.2139/ssrn.372280)
 
 Castelvecchi, D. (2015, May 15). Physics paper sets record with more than 5,000 authors. _Nature_. [https://www-nature-com.libproxy.unibz.it/articles/nature.2015.17567](https://www-nature-com.libproxy.unibz.it/articles/nature.2015.17567)
+
+Charter of Fundamental Rights of the European Union, 326 OJ C (2012). [http://data.europa.eu/eli/treaty/char_2012/oj/eng](http://data.europa.eu/eli/treaty/char_2012/oj/eng)
 
 Chartier, C., Kline, M., McCarthy, R., Nuijten, M., Dunleavy, D. J., & Ledgerwood, A. (2018). The Cooperative Revolution Is Making Psychological Science Better. _APS Observer_, _31_. [https://www.psychologicalscience.org/observer/the-cooperative-revolution-is-making-psychological-science-better](https://www.psychologicalscience.org/observer/the-cooperative-revolution-is-making-psychological-science-better)
 
@@ -208,6 +218,8 @@ Delfanti, A. (2016). Beams of particles and papers: How digital preprint archive
 
 Dempster, G. (2020). The communication of scientific research in news media: Contemporary challenges and opportunities. _Journal of Science Communication_, _19_(3), C06. [https://doi.org/10.22323/2.19030306](https://doi.org/10.22323/2.19030306)
 
+Dershowitz, A. (2020). _Cancel Culture: The Latest Attack on Free Speech and Due Process_. Skyhorse Publishing Company, Incorporated.
+
 Devine, P. G., & Ash, T. L. (2022). Diversity Training Goals, Limitations, and Promise: A Review of the Multidisciplinary Literature. _Annual Review of Psychology_, _73_, 403–429. [https://doi.org/10.1146/annurev-psych-060221-122215](https://doi.org/10.1146/annurev-psych-060221-122215)
 
 DiAngelo, R. J. (2019). _White fragility why it’s so hard for white people to talk about racism_. Allen lane.
@@ -219,6 +231,8 @@ Dobbins, M., Knill, C., & Vögtle, E. M. (2011). An analytical framework for the
 Dodgson, J. E. (2022). The Pandemic Has Brought Too Much Change: Too Many Preprints; Too Many Retractions. _Journal of Human Lactation_, _38_(2), 207–208. [https://doi.org/10.1177/08903344221082571](https://doi.org/10.1177/08903344221082571)
 
 Donoghue, F. (2018). _The last professors: The corporate university and the fate of the humanities_ (Tenth anniversary edition). Fordham University Press.
+
+Douglas, H. E. (2016). _Science, Values, and Democracy: The 2016 Descartes Lectures_ (T. Richards, Ed.). Consortium for Science, Policy & Outcomes.
 
 Duľová Spišáková, E., Gontkovičová, B., & Spišák, E. (2021). Assessment of Research and Development Financing Based on the Strategies in EU: Case of Sweden, Slovakia and Romania. _Sustainability_, _13_(15), Article 15. [https://doi.org/10.3390/su13158628](https://doi.org/10.3390/su13158628)
 
@@ -234,7 +248,7 @@ Engelschalt, J., Lemberg, J., Maibaum, A., Rothenhäusler, A., & Wiegand, M. (Ed
 
 Epstein, S. (1996). _Impure science AIDS, activism, and the politics of knowledge_. University of California Press.
 
-_ERICH FROMM a contemporary introduction. - University Library of Bolzano / Bozen_. (n.d.). Retrieved August 22, 2024, from [https://unibz.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991006815017901241&context=L&vid=39UBZ_INST:UNIBZ&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Erich%20fromm&offset=0](https://unibz.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991006815017901241&context=L&vid=39UBZ_INST:UNIBZ&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Erich%20fromm&offset=0)
+ERAB. (2009). _Preparing Europe for a New Renaissance—A Strategic View of the European Research Area_. European Research Area Board. [https://data.europa.eu/doi/10.2777/64857](https://data.europa.eu/doi/10.2777/64857)
 
 Esparza, C. J., Simon, M., Bath, E., & Ko, M. (2022). Doing the Work—or Not: The Promise and Limitations of Diversity, Equity, and Inclusion in US Medical Schools and Academic Medical Centers. _Frontiers in Public Health_, _10_. [https://doi.org/10.3389/fpubh.2022.900283](https://doi.org/10.3389/fpubh.2022.900283)
 
@@ -273,6 +287,8 @@ Fischer, L., Barata, G., Scheu, A. M., & Ziegler, R. (2024). Connecting science 
 Fischer, M. J., & Massey, D. S. (2007). The effects of affirmative action in higher education. _Social Science Research_, _36_(2), 531–549. [https://doi.org/10.1016/j.ssresearch.2006.04.004](https://doi.org/10.1016/j.ssresearch.2006.04.004)
 
 Fischhoff, B., & Davis, A. L. (2014). Communicating scientific uncertainty. _Proceedings of the National Academy of Sciences_, _111_(supplement_4), 13664–13671. [https://doi.org/10.1073/pnas.1317504111](https://doi.org/10.1073/pnas.1317504111)
+
+Flaherty, C. (2022). _Divisive Academic Freedom Conference Proceeds_. Inside Higher Ed. [https://www.insidehighered.com/news/2022/11/07/stanford-academic-freedom-event-proceeds-amid-controversy](https://www.insidehighered.com/news/2022/11/07/stanford-academic-freedom-event-proceeds-amid-controversy)
 
 Fleck, L. (2021). _Entstehung und Entwicklung einer wissenschaftlichen Tatsache: Einführung in die Lehre vom Denkstil und Denkkollektiv_ (L. Schäfer & T. Schnelle, Eds.; 13. Auflage). Suhrkamp.
 
@@ -324,6 +340,8 @@ Gieryn, T. F. (1983). Boundary-Work and the Demarcation of Science from Non-Scie
 
 Giladi, P., & McMillan, N. (2023). _Epistemic injustice and the philosophy of recognition_. Routledge. [https://doi.org/10.4324/9780429435133](https://doi.org/10.4324/9780429435133)
 
+Giordano, S., Harris, J., & Piccirillo, L. (Eds.). (2019). _The freedom of scientific research: Bridging the gap between science and society_ (1st published). Manchester University Press.
+
 Giorgi, A., & Raffini, L. (2015). Love and Ryanair: Academic researchers’ mobility. _Forum Sociológico. Série II_, _27_, Article 27. [https://doi.org/10.4000/sociologico.1327](https://doi.org/10.4000/sociologico.1327)
 
 Giroux, H. A. (2014). _Neoliberalism’s war on higher education_ (2nd ed). Haymarket Books.
@@ -336,9 +354,9 @@ Gonzales, L. D., & Núñez, A.-M. (2021). The Ranking Regime and the Production 
 
 Grand, A., Davies, G., Holliman, R., & Adams, A. (2015). Mapping Public Engagement with Research in a UK University. _PLOS ONE_, _10_(4), e0121874. [https://doi.org/10.1371/journal.pone.0121874](https://doi.org/10.1371/journal.pone.0121874)
 
-Greene, J. P. (2010). _Administrative Bloat at American Universities: The Real Reason for High Costs in Higher Education_.
+Greely, H. T. (2019). CRISPR’d babies: Human germline genome editing in the ‘He Jiankui affair’*. _Journal of Law and the Biosciences_, _6_(1), 111–183. [https://doi.org/10.1093/jlb/lsz010](https://doi.org/10.1093/jlb/lsz010)
 
-Greene, J. P. (2021). _Administrative Bloat at Universities Raises Costs Without Helping Students_. The Heritage Foundation. [https://www.heritage.org/education/commentary/administrative-bloat-universities-raises-costs-without-helping-students](https://www.heritage.org/education/commentary/administrative-bloat-universities-raises-costs-without-helping-students)
+Greene, J. P. (2010). _Administrative Bloat at American Universities: The Real Reason for High Costs in Higher Education_.
 
 Greenwood, D., & Levin, M. (2007). _Introduction to Action Research_ (2nd ed.). SAGE Publications. [https://doi.org/10.4135/9781412984614](https://doi.org/10.4135/9781412984614)
 
@@ -400,6 +418,8 @@ Herschberg, C., Benschop, Y., & van den Brink, M. (2018). Precarious postdocs: A
 
 Hess, D. J. (1997). _Science Studies: An Advanced Introduction_. NYU Press.
 
+Hicks, D. (2011). Is Longino’s Conception of Objectivity Feminist? _Hypatia_, _26_(2), 333–351. [https://doi.org/10.1111/j.1527-2001.2010.01160.x](https://doi.org/10.1111/j.1527-2001.2010.01160.x)
+
 Hilgartner, S. (1990). The Dominant View of Popularization: Conceptual Problems, Political Uses. _Social Studies of Science_, _20_(3), 519–539. [https://doi.org/10.1177/030631290020003006](https://doi.org/10.1177/030631290020003006)
 
 Himmelstein, D. S., Romero, A. R., Levernier, J. G., Munro, T. A., McLaughlin, S. R., Greshake Tzovaras, B., & Greene, C. S. (2018). Sci-Hub provides access to nearly all scholarly literature. _eLife_, _7_, e32822. [https://doi.org/10.7554/eLife.32822](https://doi.org/10.7554/eLife.32822)
@@ -407,6 +427,10 @@ Himmelstein, D. S., Romero, A. R., Levernier, J. G., Munro, T. A., McLaughlin, S
 Hodgson, D. E., & Fred, M. (Eds.). (2019). _The projectification of the public sector_. Routledge, Taylor & Francis Group.
 
 Horst, M. (2013). A Field of Expertise, the Organization, or Science Itself? Scientists’ Perception of Representing Research in Public Communication. _Science Communication_, _35_(6), 758–779. [https://doi.org/10.1177/1075547013487513](https://doi.org/10.1177/1075547013487513)
+
+Huber, C. (2021, January 28). Ken Jebsen & Trump: Was wirklich hinter Cancel Culture steckt - und wann sie sinnvoll ist. _Volksverpetzer_. [https://www.volksverpetzer.de/analyse/kenfm-trump-cancel-culture/](https://www.volksverpetzer.de/analyse/kenfm-trump-cancel-culture/)
+
+Huneke, S. C. (2023, September 17). Critically Cringe: On Susan Neiman’s “Left Is Not Woke.” _Los Angeles Review of Books_. [https://lareviewofbooks.org/article/critically-cringe-on-susan-neimans-left-is-not-woke](https://lareviewofbooks.org/article/critically-cringe-on-susan-neimans-left-is-not-woke)
 
 Iaccarino, M. (2001). Science and ethics. _EMBO Reports_, _2_(9), 747–750. [https://doi.org/10.1093/embo-reports/kve191](https://doi.org/10.1093/embo-reports/kve191)
 
@@ -432,6 +456,8 @@ Jasanoff, S. (2006). In the democracies of DNA: Ontological uncertainty and poli
 
 Jasanoff, S. (2007). Technologies of humility. _Nature_, _450_(7166), 33–33. [https://doi.org/10.1038/450033a](https://doi.org/10.1038/450033a)
 
+Jasanoff, S. (2009). _Science at the Bar: Law, Science, and Technology in America_. Harvard University Press. [https://doi.org/10.2307/j.ctvjz822j](https://doi.org/10.2307/j.ctvjz822j)
+
 Jensen, A., Thuesen, C., & Geraldi, J. (2016). The Projectification of Everything: Projects as a Human Condition. _Project Management Journal_, _47_, 21–34. [https://doi.org/10.1177/875697281604700303](https://doi.org/10.1177/875697281604700303)
 
 Joly, P.-B. (2010). On the economics of techno-scientific promises. In M. Akrich, Y. Barthe, F. Muniesa, & P. Mustar (Eds.), _Débordements: Mélanges offerts à Michel Callon_ (pp. 203–221). Presses des Mines. [https://doi.org/10.4000/books.pressesmines.747](https://doi.org/10.4000/books.pressesmines.747)
@@ -452,7 +478,11 @@ Kerr, U. A., & Lorenz-Meyer, D. (2009). Working Together Apart. In U. Felt (Ed.)
 
 Kirby, D. A., & Ockert, I. (2021). Science and technology in film: Themes and representations. In _Routledge Handbook of Public Communication of Science and Technology_ (3rd ed.). Routledge.
 
+Kitcher, P. (1990). The Division of Cognitive Labor. _Journal of Philosophy_, _87_(1), 5–22. [https://doi.org/10.2307/2026796](https://doi.org/10.2307/2026796)
+
 Koi, C. (2023, January 9). Versteckte Kündigung: Wie Kettenverträge Universitäten gefährden. _Moment.at_. [https://www.moment.at/story/uni-kettenvertrag-lehre-forschung/](https://www.moment.at/story/uni-kettenvertrag-lehre-forschung/)
+
+Kovalik, D. (2021). _Cancel This Book: The Progressive Case Against Cancel Culture_. Skyhorse Publishing Company, Incorporated.
 
 Kozlov, M. (2023). NIH researchers vote to form a union for the first time. _Nature_. [https://doi.org/10.1038/d41586-023-03898-3](https://doi.org/10.1038/d41586-023-03898-3)
 
@@ -488,19 +518,29 @@ Lehrer, J. (2010). The Truth Wears Off. _The New Yorker_. [https://archive.is/JK
 
 Leonelli, S. (2023). Philosophy of Open Science. _Elements in the Philosophy of Science_. [https://doi.org/10.1017/9781009416368](https://doi.org/10.1017/9781009416368)
 
+Leuschner, A. (2018). Is it appropriate to ‘target’ inappropriate dissent? On the normative consequences of climate skepticism. _Synthese_, _195_(3), 1255–1271.
+
 Li, J., Xue, E., Wei, Y., & He, Y. (2024). How popularising higher education affects economic growth and poverty alleviation: Empirical evidence from 38 countries. _Humanities and Social Sciences Communications_, _11_(1), 1–11. [https://doi.org/10.1057/s41599-024-03013-5](https://doi.org/10.1057/s41599-024-03013-5)
 
 Liang, X., Su, L. Y.-F., Yeo, S. K., Scheufele, D. A., Brossard, D., Xenos, M., Nealey, P., & Corley, E. A. (2014). Building Buzz: (Scientists) Communicating Science in New Media Environments. _Journalism & Mass Communication Quarterly_, _91_(4), 772–791. [https://doi.org/10.1177/1077699014550092](https://doi.org/10.1177/1077699014550092)
 
 Lipton, E., Confessore, N., & Williams, B. (2016, August 8). Think Tank Scholar or Corporate Consultant? It Depends on the Day - T…. _New York Times_. [https://archive.is/BJ3gD](https://archive.is/BJ3gD)
 
+Longino, H. E. (1995). Gender, politics, and the theoretical virtues. _Synthese_, _104_(3), 383–397. [https://doi.org/10.1007/BF01064506](https://doi.org/10.1007/BF01064506)
+
 Loveday, V. (2018). The neurotic academic: Anxiety, casualisation, and governance in the neoliberalising university. _Journal of Cultural Economy_, _11_(2), 154–166. [https://doi.org/10.1080/17530350.2018.1426032](https://doi.org/10.1080/17530350.2018.1426032)
+
+Ludwig, D., & Ruphy, S. (2021). Scientific Pluralism. In _Stanford Encyclopedia of Philosophy_. [https://plato.stanford.edu/ENTRIES/scientific-pluralism/](https://plato.stanford.edu/ENTRIES/scientific-pluralism/)
 
 Lukianoff, G., & Haidt, J. (2018). _The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure_ (Illustrated Edition). Penguin Press.
 
 Luna, D. S., & Bering, J. M. (2020). The construction of awe in science communication. _Public Understanding of Science_. [https://doi.org/10.1177/0963662520963256](https://doi.org/10.1177/0963662520963256)
 
 MacLean, M., Davies, C., Lewison, G., & Anderson, J. (1998). Evaluating the research activity and impact of funding agencies. _Research Evaluation_, _7_(1), 7–16. [https://doi.org/10.1093/rev/7.1.7](https://doi.org/10.1093/rev/7.1.7)
+
+Maddalena Cannito & Eugenia Mercuri. (2023). Epistemic wars in academia. The case of gender studies. _Rassegna Italiana Di Sociologia_, _4_, 675–704. [https://doi.org/10.1423/112401](https://doi.org/10.1423/112401)
+
+Manley, K., & Stanley, J. (2015, November 13). _When Free Speech Becomes a Political Weapon_. The Chronicle of Higher Education. [https://www.chronicle.com/article/when-free-speech-becomes-a-political-weapon/](https://www.chronicle.com/article/when-free-speech-becomes-a-political-weapon/)
 
 Marcinkowski, F., Kohring, M., Fürst, S., & Friedrichsmeier, A. (2014). Organizational Influence on Scientists’ Efforts to Go Public: An Empirical Investigation. _Science Communication_, _36_(1), 56–80. [https://doi.org/10.1177/1075547013494022](https://doi.org/10.1177/1075547013494022)
 
@@ -527,6 +567,8 @@ Merton, R. K. (with Eco, U.). (1993). _On the Shoulders of Giants: A Shandean Po
 Metcalfe, J., Riedlinger, M., Bauer, M. W., Chakraborty, A., Gascoigne, T., Guenther, L., Joubert, M., Kaseje, M., Herrera-Lima, S., Revuelta, G., Riise, J., & Schiele, B. (2020). The COVID-19 mirror: Reflecting science-society relationships across 11 countries. _Journal of Science Communication_, _19_(07), A05. [https://doi.org/10.22323/2.19070205](https://doi.org/10.22323/2.19070205)
 
 Meyer, M., & Kearnes, M. (2013). Introduction to special section: Intermediaries between science, policy and the market. _Science and Public Policy_, _40_(4), 423–429.
+
+Meyer-Bahlburg, H. F. L., Lowrey, K., Hooven, C. K., & Pfaus, J. G. (2023). A Response to the Commentary by Sterling et al. (2023): “Political Views, Not Science: A Response to the Recent ‘Cancel Culture’ Special Section.” _Archives of Sexual Behavior_, _52_(8), 3189–3191. [https://doi.org/10.1007/s10508-023-02705-4](https://doi.org/10.1007/s10508-023-02705-4)
 
 Michael, M. (2002). Comprehension, Apprehension, Prehension: Heterogeneity and the Public Understanding of Science. _Science, Technology, & Human Values_, _27_(3), 357–378. [https://doi.org/10.1177/016224390202700302](https://doi.org/10.1177/016224390202700302)
 
@@ -582,17 +624,21 @@ Ng, E. (2022a). _Cancel Culture: A Critical Analysis_. Springer International Pu
 
 Ng, E. (2022b). Conclusion. In E. Ng (Ed.), _Cancel Culture: A Critical Analysis_ (pp. 137–147). Springer International Publishing. [https://doi.org/10.1007/978-3-030-97374-2_6](https://doi.org/10.1007/978-3-030-97374-2_6)
 
+Nguyen, C. T. (2020). ECHO CHAMBERS AND EPISTEMIC BUBBLES. _Episteme_, _17_(2), 141–161. [https://doi.org/10.1017/epi.2018.32](https://doi.org/10.1017/epi.2018.32)
+
 Nichols, T. M. (2024). _The death of expertise: The campaign against established knowledge and why it matters_ (2nd ed.). Oxford University Press. [https://doi.org/10.1093/oso/9780197763827.001.0001](https://doi.org/10.1093/oso/9780197763827.001.0001)
 
 Nida-Rümelin, J. (2023). _Cancel Culture - Ende der Aufklärung? Ein Plädoyer für eigenständiges Denken_. Piper.
 
 Norris, P. (2020). _Closed Minds? Is a ‘Cancel Culture’ Stifling Academic Freedom and Intellectual Debate in Political Science?_ (SSRN Scholarly Paper 3671026). [https://doi.org/10.2139/ssrn.3671026](https://doi.org/10.2139/ssrn.3671026)
 
-Norris, P. (2023). Cancel Culture: Myth or Reality? _Political Studies_, _71_(1), 145–174. [https://doi.org/10.1177/00323217211037023](https://doi.org/10.1177/00323217211037023)
+Norris, P. (2023a). _Cancel culture: Heterodox self-censorship or the curious case of the dog-which-didn’t-bark_.
+
+Norris, P. (2023b). Cancel Culture: Myth or Reality? _Political Studies_, _71_(1), 145–174. [https://doi.org/10.1177/00323217211037023](https://doi.org/10.1177/00323217211037023)
 
 Nowotny, H. (2003). Democratising expertise and socially robust knowledge. _Science and Public Policy_, _30_(3), 151–156. [https://doi.org/10.3152/147154303781780461](https://doi.org/10.3152/147154303781780461)
 
-NOWOTNY, H., SCOTT, P., & GIBBONS, M. (2003). INTRODUCTION: “Mode 2” Revisited: The New Production of Knowledge. In _Minerva_ (Vol. 41, pp. 179–194). Springer; JSTOR. [http://www.jstor.org/stable/41821245](http://www.jstor.org/stable/41821245)
+Nowotny, H., Scott, P., & Gibbons, M. (2003). INTRODUCTION: “Mode 2” Revisited: The New Production of Knowledge. In _Minerva_ (Vol. 41, pp. 179–194). Springer; JSTOR. [http://www.jstor.org/stable/41821245](http://www.jstor.org/stable/41821245)
 
 Nowotny, H., Scott, P., & Gibbons, M. (2004). _Re-thinking science: Knowledge and the public in an age of uncertainty_ (2. reprint..). Polity Press. [https://ubdata.univie.ac.at/AC04086467](https://ubdata.univie.ac.at/AC04086467)
 
@@ -668,11 +714,13 @@ Renn, O. (2021). Transdisciplinarity: Synthesis towards a modular approach. _Fut
 
 Resnik, D. B. (2005). _The Ethics of Science: An Introduction_. Taylor and Francis.
 
+Revers, M., & Traunmüller, R. (2020). Is Free Speech in Danger on University Campus? Some Preliminary Evidence from a Most Likely Case. _KZfSS Kölner Zeitschrift Für Soziologie Und Sozialpsychologie_, _72_(3), 471–497. [https://doi.org/10.1007/s11577-020-00713-z](https://doi.org/10.1007/s11577-020-00713-z)
+
 Riesch, H., & Potter, C. (2014). Citizen science as seen by scientists: Methodological, epistemological and ethical dimensions. _Public Understanding of Science_, _23_(1), 107–120. [https://doi.org/10.1177/0963662513497324](https://doi.org/10.1177/0963662513497324)
 
 Riordan, M. (with Hoddeson, L., & Kolb, A. W.). (2015). _Tunnel Visions: The Rise and Fall of the Superconducting Super Collider_. University of Chicago Press. [https://doi.org/10.7208/9780226305837](https://doi.org/10.7208/9780226305837)
 
-Ritson, D. (n.d.). _Demise of the Texas supercollider | Nature_. Retrieved May 21, 2024, from [https://www.nature.com/articles/366607a0](https://www.nature.com/articles/366607a0)
+Ritson, D. (1993). _Demise of the Texas supercollider | Nature_. [https://www.nature.com/articles/366607a0](https://www.nature.com/articles/366607a0)
 
 Roberts, N. C., & King, P. J. (1991). Policy Entrepreneurs: Their Activity Structure and Function in the Policy Process. _Journal of Public Administration Research and Theory_, _1_(2), 147–175. [https://doi.org/10.1093/oxfordjournals.jpart.a037081](https://doi.org/10.1093/oxfordjournals.jpart.a037081)
 
@@ -684,7 +732,11 @@ Rödder, S. (2012). The Ambivalence of Visible Scientists. In S. Rödder, M. Fra
 
 Rödder, S. (2020). Organisation matters: Towards an organisational sociology of science communication. _Journal of Communication Management_, _ahead-of-print_(ahead-of-print). [https://doi.org/10.1108/JCOM-06-2019-0093](https://doi.org/10.1108/JCOM-06-2019-0093)
 
+Rolin, K. (2019). The Epistemic Significance of Diversity. In M. Fricker, P. J. Graham, D. Henderson, & N. J. L. L. Pedersen (Eds.), _The Routledge Handbook of Social Epistemology_ (1st ed., pp. 158–166). Routledge. [https://doi.org/10.4324/9781315717937-16](https://doi.org/10.4324/9781315717937-16)
+
 Romero, F. (2019). Philosophy of science and the replicability crisis. _Philosophy Compass_, _14_(11), e12633. [https://doi.org/10.1111/phc3.12633](https://doi.org/10.1111/phc3.12633)
+
+Rose, S. (2020, January 21). How the word ‘woke’ was weaponised by the right. _The Guardian_. [https://www.theguardian.com/society/shortcuts/2020/jan/21/how-the-word-woke-was-weaponised-by-the-right](https://www.theguardian.com/society/shortcuts/2020/jan/21/how-the-word-woke-was-weaponised-by-the-right)
 
 Rosenberg, N. (2009). _Studies On Science And The Innovation Process: Selected Works By Nathan Rosenberg_. World Scientific.
 
@@ -724,8 +776,6 @@ Schuppli, C. A., & Fraser, D. (2007). Factors influencing the effectiveness of r
 
 Schwartz-Shea, P. (2006). Judging Quality: Evaluative Criteria and Epistemic Communities. In _Interpretation and Method_ (2nd ed.). Routledge.
 
-_Science as an Open Enterprise_ (pp. 1–105). (2012). Royal Society. [https://royalsociety.org/~/media/policy/projects/sape/2012-06-20-saoe.pdf](https://royalsociety.org/~/media/policy/projects/sape/2012-06-20-saoe.pdf)
-
 Seakins, A., & Hobson, M. (2017). Public Understanding of Science. In K. S. Taber & B. Akpan (Eds.), _Science Education: An International Course Companion_ (pp. 443–452). SensePublishers. [https://doi.org/10.1007/978-94-6300-749-8_32](https://doi.org/10.1007/978-94-6300-749-8_32)
 
 SERRC. (2023). Philosophy is Not Politics: A Review of Susan Neiman’s Left is not Woke, Sharon Rider. _Social Epistemology Review & Reply Collective [BLOG]_. [https://www.proquest.com/docview/2875779738/citation/14DC5F5B0A2F40A8PQ/1](https://www.proquest.com/docview/2875779738/citation/14DC5F5B0A2F40A8PQ/1)
@@ -752,6 +802,8 @@ Starkbaum, J., Auel, K., Bobi, V., Fuglsang, S., Griessler, E., Koenig, T., Losi
 
 Stephan, P., & Young, A. (2023). _Encouraging high-risk high-reward research at NIH_ (Building a Better NIH, pp. 1–8). BrookingsInstitute, Good Science Project, Institute for Progress.
 
+Sterling, M., Armstrong, N., Cheek, O., & Ménard, A. D. (2023). Political Views, Not Science: A Response to the Recent “Cancel Culture” Special Section. _Archives of Sexual Behavior_, _52_(6), 2265–2268. [https://doi.org/10.1007/s10508-023-02622-6](https://doi.org/10.1007/s10508-023-02622-6)
+
 Stirling, A. (2006). Precaution, Foresight and Sustainability: Reflection and Reflexivity in the Governance of Science and Technology. In J.-P. Voß, D. Bauknecht, & R. Kemp (Eds.), _Reflexive Governance for Sustainable Development_. Edward Elgar Publishing. [https://doi.org/10.4337/9781847200266.00020](https://doi.org/10.4337/9781847200266.00020)
 
 Strohschneider, P. (2014). Zur Politik der Transformativen Wissenschaft. In A. Brodocz, D. Herrmann, R. Schmidt, D. Schulz, & J. Schulze Wessel (Eds.), _Die Verfassung des Politischen_ (pp. 175–192). Springer Fachmedien Wiesbaden. [https://doi.org/10.1007/978-3-658-04784-9_10](https://doi.org/10.1007/978-3-658-04784-9_10)
@@ -768,6 +820,8 @@ Teixeira da Silva, J. A. (2021). How to shape academic freedom in the digital ag
 
 The Council on Academic Freedom. (2024). _Mission and Vision_. Council on Academic Freedom at Harvard. [https://sites.harvard.edu/cafh/about/](https://sites.harvard.edu/cafh/about/)
 
+The Royal Society. (2012). _Science as an Open Enterprise_ (pp. 1–105). Royal Society. [https://royalsociety.org/~/media/policy/projects/sape/2012-06-20-saoe.pdf](https://royalsociety.org/~/media/policy/projects/sape/2012-06-20-saoe.pdf)
+
 Tiede, H.-J., McCarthy, S., Kamola, I., & Spurgas, A. K. (2021, May 3). _Data Snapshot: Whom Does Campus Reform Target and What Are the Effects?_ AAUP. [https://www.aaup.org/article/data-snapshot-whom-does-campus-reform-target-and-what-are-effects](https://www.aaup.org/article/data-snapshot-whom-does-campus-reform-target-and-what-are-effects)
 
 Tolich, M., & Fitzgerald, M. H. (2006). If Ethics Committees were Designed for Ethnography. _Journal of Empirical Research on Human Research Ethics_, _1_(2), 71–78. [https://doi.org/10.1525/jer.2006.1.2.71](https://doi.org/10.1525/jer.2006.1.2.71)
@@ -775,8 +829,6 @@ Tolich, M., & Fitzgerald, M. H. (2006). If Ethics Committees were Designed for E
 Torka, M. (2018). Projectification of Doctoral Training? How Research Fields Respond to a New Funding Regime. _Minerva_, _56_(1), 59–83. [https://doi.org/10.1007/s11024-018-9342-8](https://doi.org/10.1007/s11024-018-9342-8)
 
 Traldi, O. (2020). University’s Telos: The Truth is Not Enough. _Heterodox Academy_. [https://heterodoxacademy.org/blog/the-truth-is-not-enough](https://heterodoxacademy.org/blog/the-truth-is-not-enough)
-
-_Transitions to Sustainable Development: New Directions in the Study of Long Term Transformative Change_. (n.d.). Routledge & CRC Press. Retrieved July 22, 2024, from [https://www.routledge.com/Transitions-to-Sustainable-Development-New-Directions-in-the-Study-of-Long-Term-Transformative-Change/Grin-Rotmans-Schot/p/book/9780415898041](https://www.routledge.com/Transitions-to-Sustainable-Development-New-Directions-in-the-Study-of-Long-Term-Transformative-Change/Grin-Rotmans-Schot/p/book/9780415898041)
 
 Trench, B. (2008). Towards an Analytical Framework of Science Communication Models. In D. Cheng, M. Claessens, T. Gascoigne, J. Metcalfe, B. Schiele, & S. Shi (Eds.), _Communicating Science in Social Contexts: New models, new practices_ (pp. 119–135). Springer Netherlands. [https://doi.org/10.1007/978-1-4020-8598-7_7](https://doi.org/10.1007/978-1-4020-8598-7_7)
 
