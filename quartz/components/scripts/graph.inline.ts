@@ -599,3 +599,4 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
 })
+

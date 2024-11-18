@@ -1,3 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+:root {
+    --secondary: #314A61;           /* Color for the current node */
+    --Disciplines-color: #c6a566;  /* Yellow color for "Disciplines" tag */      
+    --Discourses-color: #c9309f;   /* Pink color for "Discourses" tag */
+    --Dispositions-color: #7bcb6a;    /* Green color for "Dispositions" tag */
+    --Mini-Case-Studies-color: #4974b2;       /* Blue color for "Mini-Case Studies" tag */
+    --gray: #9e9e9e;              /* Gray color for neutral (tagless) nodes */
+  }
+
+  

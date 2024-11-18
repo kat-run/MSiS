@@ -10,7 +10,7 @@
 
 **Links**
 
-[[Competition]] [[Mobility]] [[Funding]] [[Market Logics in Universities]] [🌌Cosmos: Commodification](https://lean-sphynx-49b.notion.site/Cosmos-Commodification-ce1df3cd683e4bc39a4f7348f4df6701?pvs=21) [🌌Cosmos: Globalization](https://lean-sphynx-49b.notion.site/Cosmos-Globalization-8bfcc0523ab64a819cd329a6875da3ed?pvs=21) [❓Freedom](https://lean-sphynx-49b.notion.site/Freedom-11587210186680bc90dfc92c64aa96cf?pvs=21)
+[[Competition]] [[Mobility]] [[Funding]] [[Market Logics in Universities]] [🌌Cosmos: Commodification](https://lean-sphynx-49b.notion.site/Cosmos-Commodification-ce1df3cd683e4bc39a4f7348f4df6701?pvs=21) [🌌Cosmos: Globalization](https://lean-sphynx-49b.notion.site/Cosmos-Globalization-8bfcc0523ab64a819cd329a6875da3ed?pvs=21) [❓#freedom](https://lean-sphynx-49b.notion.site/Freedom-11587210186680bc90dfc92c64aa96cf?pvs=21)
 
 **Literature**
 

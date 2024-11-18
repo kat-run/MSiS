@@ -6,7 +6,7 @@
 
 **Tags**
 
-[🏷️Theory](https://lean-sphynx-49b.notion.site/Theory-8b50544e2f09474c93709d9f853e692f?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [❓Telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21)
+[🏷️Theory](https://lean-sphynx-49b.notion.site/Theory-8b50544e2f09474c93709d9f853e692f?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [❓#telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21)
 
 **Links**
 

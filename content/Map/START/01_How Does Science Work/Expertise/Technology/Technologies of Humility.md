@@ -3,6 +3,7 @@
 **Area (colour)**
 
 [🎓**Disciplines](https://lean-sphynx-49b.notion.site/Disciplines-72ba770b397c4f34aed13a10d8d0cc3e?pvs=21)
+ 
 
 **Tags**
 
@@ -10,7 +11,7 @@
 
 **Links**
 
-[[“Big” vs. “Small” science]] [[How can science tackle “large” problems]] [❓Agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21)
+[[“Big” vs. “Small” science]] [[How can science tackle “large” problems]] [❓#agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21)
 
 **Literature**
 

@@ -8,7 +8,7 @@
 
 **Tags**
 
-[🏷️Publishing](https://lean-sphynx-49b.notion.site/Publishing-8d3c55fe5c894b3b9c1ebb666ebe341d?pvs=21) [🏷️Academic Workforce](https://lean-sphynx-49b.notion.site/Academic-Workforce-14c2434af32e41c190a68c92b02ddf42?pvs=21) [🏷️Funding](https://lean-sphynx-49b.notion.site/Funding-9204fb6155bd445a87cabe5b2552ac2d?pvs=21) [🏷️Intermediary Institution](https://lean-sphynx-49b.notion.site/Intermediary-Institution-6677721ce7ac4a85a994f28d7345213d?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [🌌Cosmos: Globalization](https://lean-sphynx-49b.notion.site/Cosmos-Globalization-8bfcc0523ab64a819cd329a6875da3ed?pvs=21) [❓Freedom](https://lean-sphynx-49b.notion.site/Freedom-11587210186680bc90dfc92c64aa96cf?pvs=21)
+[🏷️Publishing](https://lean-sphynx-49b.notion.site/Publishing-8d3c55fe5c894b3b9c1ebb666ebe341d?pvs=21) [🏷️Academic Workforce](https://lean-sphynx-49b.notion.site/Academic-Workforce-14c2434af32e41c190a68c92b02ddf42?pvs=21) [🏷️Funding](https://lean-sphynx-49b.notion.site/Funding-9204fb6155bd445a87cabe5b2552ac2d?pvs=21) [🏷️Intermediary Institution](https://lean-sphynx-49b.notion.site/Intermediary-Institution-6677721ce7ac4a85a994f28d7345213d?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [🌌Cosmos: Globalization](https://lean-sphynx-49b.notion.site/Cosmos-Globalization-8bfcc0523ab64a819cd329a6875da3ed?pvs=21) [❓#freedom](https://lean-sphynx-49b.notion.site/Freedom-11587210186680bc90dfc92c64aa96cf?pvs=21)
 
 **Links**
 

@@ -6,7 +6,7 @@
 
 **Tags**
 
-[🏷️Science and the public](https://lean-sphynx-49b.notion.site/Science-and-the-public-0e97862561e84379a6fa9cf93b90ab2b?pvs=21) [🏷️Capitalism](https://lean-sphynx-49b.notion.site/Capitalism-92ab400b37bd411da460073c2ee4fb05?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [❓Agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [🌌Cosmos: Commodification](https://lean-sphynx-49b.notion.site/Cosmos-Commodification-ce1df3cd683e4bc39a4f7348f4df6701?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [🌌Cosmos: Globalization](https://lean-sphynx-49b.notion.site/Cosmos-Globalization-8bfcc0523ab64a819cd329a6875da3ed?pvs=21)
+[🏷️Science and the public](https://lean-sphynx-49b.notion.site/Science-and-the-public-0e97862561e84379a6fa9cf93b90ab2b?pvs=21) [🏷️Capitalism](https://lean-sphynx-49b.notion.site/Capitalism-92ab400b37bd411da460073c2ee4fb05?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [❓#agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [🌌Cosmos: Commodification](https://lean-sphynx-49b.notion.site/Cosmos-Commodification-ce1df3cd683e4bc39a4f7348f4df6701?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [🌌Cosmos: Globalization](https://lean-sphynx-49b.notion.site/Cosmos-Globalization-8bfcc0523ab64a819cd329a6875da3ed?pvs=21)
 
 **Links**
 

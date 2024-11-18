@@ -6,7 +6,7 @@
 
 **Tags**
 
-[🏷️Science and the public](https://lean-sphynx-49b.notion.site/Science-and-the-public-0e97862561e84379a6fa9cf93b90ab2b?pvs=21) [🏷️Transformation](https://lean-sphynx-49b.notion.site/Transformation-c825df3a3ea24aaa8ac73609436bae7f?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [❓Agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [❓Telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21)
+[🏷️Science and the public](https://lean-sphynx-49b.notion.site/Science-and-the-public-0e97862561e84379a6fa9cf93b90ab2b?pvs=21) [🏷️Transformation](https://lean-sphynx-49b.notion.site/Transformation-c825df3a3ea24aaa8ac73609436bae7f?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [❓#agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [❓#telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21)
 
 **Links**
 

@@ -6,7 +6,7 @@
 
 **Tags**
 
-[🏷️Ethics](https://lean-sphynx-49b.notion.site/Ethics-2b7ab4be00294e93b53a09aa4f7e235f?pvs=21) [🏷️New Public Management](https://lean-sphynx-49b.notion.site/New-Public-Management-f12942986f97464fbc27f9e5105f9a7b?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [❓Freedom](https://lean-sphynx-49b.notion.site/Freedom-11587210186680bc90dfc92c64aa96cf?pvs=21)
+[🏷️Ethics](https://lean-sphynx-49b.notion.site/Ethics-2b7ab4be00294e93b53a09aa4f7e235f?pvs=21) [🏷️New Public Management](https://lean-sphynx-49b.notion.site/New-Public-Management-f12942986f97464fbc27f9e5105f9a7b?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [❓#freedom](https://lean-sphynx-49b.notion.site/Freedom-11587210186680bc90dfc92c64aa96cf?pvs=21)
 
 **Links**
 

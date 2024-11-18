@@ -6,7 +6,7 @@
 
 **Tags**
 
-[🏷️Science and the public](https://lean-sphynx-49b.notion.site/Science-and-the-public-0e97862561e84379a6fa9cf93b90ab2b?pvs=21) [🏷️Mode 2 Science](https://lean-sphynx-49b.notion.site/Mode-2-Science-f4287daae3de4bb983342cd01f6f6bcb?pvs=21) [🏷️Science Communication](https://lean-sphynx-49b.notion.site/Science-Communication-08922d606e5e47f293f5c56d536a9836?pvs=21) [❓Telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Commodification](https://lean-sphynx-49b.notion.site/Cosmos-Commodification-ce1df3cd683e4bc39a4f7348f4df6701?pvs=21)
+[🏷️Science and the public](https://lean-sphynx-49b.notion.site/Science-and-the-public-0e97862561e84379a6fa9cf93b90ab2b?pvs=21) [🏷️Mode 2 Science](https://lean-sphynx-49b.notion.site/Mode-2-Science-f4287daae3de4bb983342cd01f6f6bcb?pvs=21) [🏷️Science Communication](https://lean-sphynx-49b.notion.site/Science-Communication-08922d606e5e47f293f5c56d536a9836?pvs=21) [❓#telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Commodification](https://lean-sphynx-49b.notion.site/Cosmos-Commodification-ce1df3cd683e4bc39a4f7348f4df6701?pvs=21)
 
 **Links**
 

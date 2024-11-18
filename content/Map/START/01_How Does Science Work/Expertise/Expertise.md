@@ -3,10 +3,11 @@
 **Area (colour)**
 
 [🗯️**Discourses](https://lean-sphynx-49b.notion.site/Discourses-ab06ed1436054e5b9bf0c0af92149114?pvs=21)
+ 
 
 **Tags**
 
-[🏷️Expertise](https://lean-sphynx-49b.notion.site/Expertise-ede1853057274e1b81d6516e2639ce23?pvs=21) [🏷️Science and the public](https://lean-sphynx-49b.notion.site/Science-and-the-public-0e97862561e84379a6fa9cf93b90ab2b?pvs=21) [🏷️Intermediary Institution](https://lean-sphynx-49b.notion.site/Intermediary-Institution-6677721ce7ac4a85a994f28d7345213d?pvs=21) [❓Telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21)
+[🏷️Expertise](https://lean-sphynx-49b.notion.site/Expertise-ede1853057274e1b81d6516e2639ce23?pvs=21) [🏷️Science and the public](https://lean-sphynx-49b.notion.site/Science-and-the-public-0e97862561e84379a6fa9cf93b90ab2b?pvs=21) [🏷️Intermediary Institution](https://lean-sphynx-49b.notion.site/Intermediary-Institution-6677721ce7ac4a85a994f28d7345213d?pvs=21) [❓#telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21)
 
 **Links**
 

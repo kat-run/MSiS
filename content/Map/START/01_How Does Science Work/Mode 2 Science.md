@@ -6,7 +6,7 @@
 
 **Tags**
 
-[🏷️Theory](https://lean-sphynx-49b.notion.site/Theory-8b50544e2f09474c93709d9f853e692f?pvs=21) [🏷️Mode 2 Science](https://lean-sphynx-49b.notion.site/Mode-2-Science-f4287daae3de4bb983342cd01f6f6bcb?pvs=21) [🌌Cosmos: Progress](https://lean-sphynx-49b.notion.site/Cosmos-Progress-9b264eb6e46c4d039df020e1d9342b9c?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Globalization](https://lean-sphynx-49b.notion.site/Cosmos-Globalization-8bfcc0523ab64a819cd329a6875da3ed?pvs=21) [❓Telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21)
+[🏷️Theory](https://lean-sphynx-49b.notion.site/Theory-8b50544e2f09474c93709d9f853e692f?pvs=21) [🏷️Mode 2 Science](https://lean-sphynx-49b.notion.site/Mode-2-Science-f4287daae3de4bb983342cd01f6f6bcb?pvs=21) [🌌Cosmos: Progress](https://lean-sphynx-49b.notion.site/Cosmos-Progress-9b264eb6e46c4d039df020e1d9342b9c?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Globalization](https://lean-sphynx-49b.notion.site/Cosmos-Globalization-8bfcc0523ab64a819cd329a6875da3ed?pvs=21) [❓#telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21)
 
 **Links**
 

@@ -6,7 +6,7 @@
 
 **Tags**
 
-[🏷️Philosophy of Science](https://lean-sphynx-49b.notion.site/Philosophy-of-Science-ae226cfb0404435bafba0d6608f69108?pvs=21) [🏷️Boundary Work](https://lean-sphynx-49b.notion.site/Boundary-Work-e1ff521fa37746e4a5bf2ef70d5fa303?pvs=21) [❓Telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21)  
+[🏷️Philosophy of Science](https://lean-sphynx-49b.notion.site/Philosophy-of-Science-ae226cfb0404435bafba0d6608f69108?pvs=21) [🏷️Boundary Work](https://lean-sphynx-49b.notion.site/Boundary-Work-e1ff521fa37746e4a5bf2ef70d5fa303?pvs=21) [❓#telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21)  
   
 **Links**
 

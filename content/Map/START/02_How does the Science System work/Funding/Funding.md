@@ -6,7 +6,7 @@
 
 **Tags**
 
-[🏷️Funding](https://lean-sphynx-49b.notion.site/Funding-9204fb6155bd445a87cabe5b2552ac2d?pvs=21) [🏷️Politics](https://lean-sphynx-49b.notion.site/Politics-9e5263cc233a464398a41fc45c125005?pvs=21) [🏷️Academia](https://lean-sphynx-49b.notion.site/Academia-11bd23c278674ec6843b89f1af801c4d?pvs=21) [🏷️Intermediary Institution](https://lean-sphynx-49b.notion.site/Intermediary-Institution-6677721ce7ac4a85a994f28d7345213d?pvs=21) [🌌Cosmos: Commodification](https://lean-sphynx-49b.notion.site/Cosmos-Commodification-ce1df3cd683e4bc39a4f7348f4df6701?pvs=21) [🌌Cosmos: Progress](https://lean-sphynx-49b.notion.site/Cosmos-Progress-9b264eb6e46c4d039df020e1d9342b9c?pvs=21) [❓Freedom](https://lean-sphynx-49b.notion.site/Freedom-11587210186680bc90dfc92c64aa96cf?pvs=21)
+[🏷️Funding](https://lean-sphynx-49b.notion.site/Funding-9204fb6155bd445a87cabe5b2552ac2d?pvs=21) [🏷️Politics](https://lean-sphynx-49b.notion.site/Politics-9e5263cc233a464398a41fc45c125005?pvs=21) [🏷️Academia](https://lean-sphynx-49b.notion.site/Academia-11bd23c278674ec6843b89f1af801c4d?pvs=21) [🏷️Intermediary Institution](https://lean-sphynx-49b.notion.site/Intermediary-Institution-6677721ce7ac4a85a994f28d7345213d?pvs=21) [🌌Cosmos: Commodification](https://lean-sphynx-49b.notion.site/Cosmos-Commodification-ce1df3cd683e4bc39a4f7348f4df6701?pvs=21) [🌌Cosmos: Progress](https://lean-sphynx-49b.notion.site/Cosmos-Progress-9b264eb6e46c4d039df020e1d9342b9c?pvs=21) [❓#freedom](https://lean-sphynx-49b.notion.site/Freedom-11587210186680bc90dfc92c64aa96cf?pvs=21)
 
 **Links**
 

@@ -6,7 +6,7 @@
 
 **Tags**
 
-[🏷️Ethics](https://lean-sphynx-49b.notion.site/Ethics-2b7ab4be00294e93b53a09aa4f7e235f?pvs=21) [🏷️Expertise](https://lean-sphynx-49b.notion.site/Expertise-ede1853057274e1b81d6516e2639ce23?pvs=21) [🏷️Constructivism](https://lean-sphynx-49b.notion.site/Constructivism-95adbc987e1949219fba879ca6814a55?pvs=21) [❓Agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [❓Telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21)
+[🏷️Ethics](https://lean-sphynx-49b.notion.site/Ethics-2b7ab4be00294e93b53a09aa4f7e235f?pvs=21) [🏷️Expertise](https://lean-sphynx-49b.notion.site/Expertise-ede1853057274e1b81d6516e2639ce23?pvs=21) [🏷️Constructivism](https://lean-sphynx-49b.notion.site/Constructivism-95adbc987e1949219fba879ca6814a55?pvs=21) [❓#agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [❓#telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21) [🌌Cosmos: Accountability](https://lean-sphynx-49b.notion.site/Cosmos-Accountability-d4c5602b14234f37b493f1133e177038?pvs=21) [🌌Cosmos: Truth](https://lean-sphynx-49b.notion.site/Cosmos-Truth-af34d1903e934f1b989baa138fdfecc6?pvs=21)
 
 **Links**
 

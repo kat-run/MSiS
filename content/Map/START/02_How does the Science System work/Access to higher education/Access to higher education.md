@@ -6,7 +6,7 @@
 
 **Tags**
 
-[🏷️Academia](https://lean-sphynx-49b.notion.site/Academia-11bd23c278674ec6843b89f1af801c4d?pvs=21) [🏷️Economy](https://lean-sphynx-49b.notion.site/Economy-bf5b68925bd1410a94d40973a3b254e0?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [🌌Cosmos: Globalization](https://lean-sphynx-49b.notion.site/Cosmos-Globalization-8bfcc0523ab64a819cd329a6875da3ed?pvs=21) [❓Agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [❓Telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21)
+[🏷️Academia](https://lean-sphynx-49b.notion.site/Academia-11bd23c278674ec6843b89f1af801c4d?pvs=21) [🏷️Economy](https://lean-sphynx-49b.notion.site/Economy-bf5b68925bd1410a94d40973a3b254e0?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [🌌Cosmos: Globalization](https://lean-sphynx-49b.notion.site/Cosmos-Globalization-8bfcc0523ab64a819cd329a6875da3ed?pvs=21) [❓#agency](https://lean-sphynx-49b.notion.site/Kind-11587210186680929d30e9ac15b3534c?pvs=21) [❓#telos](https://lean-sphynx-49b.notion.site/Telos-11587210186680608bc3ecc5d1ba5772?pvs=21)
 
 **Links**
 

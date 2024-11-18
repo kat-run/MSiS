@@ -6,7 +6,7 @@
 
 **Tag**
 
-[🏷️Academia](https://lean-sphynx-49b.notion.site/Academia-11bd23c278674ec6843b89f1af801c4d?pvs=21) [🏷️Transformation](https://lean-sphynx-49b.notion.site/Transformation-c825df3a3ea24aaa8ac73609436bae7f?pvs=21) [🏷️International](https://lean-sphynx-49b.notion.site/International-5d6991c58f1b45af9fa317d414867f61?pvs=21) [🏷️Climate Change](https://lean-sphynx-49b.notion.site/Climate-Change-2fb0fb65ab4141e7921b47c14357bdcf?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [❓Freedom](https://lean-sphynx-49b.notion.site/Freedom-11587210186680bc90dfc92c64aa96cf?pvs=21)
+[🏷️Academia](https://lean-sphynx-49b.notion.site/Academia-11bd23c278674ec6843b89f1af801c4d?pvs=21) [🏷️Transformation](https://lean-sphynx-49b.notion.site/Transformation-c825df3a3ea24aaa8ac73609436bae7f?pvs=21) [🏷️International](https://lean-sphynx-49b.notion.site/International-5d6991c58f1b45af9fa317d414867f61?pvs=21) [🏷️Climate Change](https://lean-sphynx-49b.notion.site/Climate-Change-2fb0fb65ab4141e7921b47c14357bdcf?pvs=21) [🌌Cosmos: Justice](https://lean-sphynx-49b.notion.site/Cosmos-Justice-e69b4d55d9594bd5be91fcae75164fac?pvs=21) [❓#freedom](https://lean-sphynx-49b.notion.site/Freedom-11587210186680bc90dfc92c64aa96cf?pvs=21)
 
 **Links**
 
